@@ -1,0 +1,32 @@
+.jin11{
+    margin-left: 450px;
+    width: 200px;
+}
+.inn11{
+width: 276px;
+    height: 45px;
+    border: 1px solid #B7B1B1;
+        border-radius: 10px;
+        margin-left: 20px;
+}
+.lacnn11{
+    margin-left: 150px;
+}
+
+
+
+@media only screen and (max-width: 600px){
+.jin11{
+    margin-left: 0px;
+}
+    .lacnn11 {
+        margin-left: 0px;
+    }
+        .inn11{
+            margin-left: 10px;
+            margin-bottom: 20px;
+            margin-right: 0px;
+            width: 170px;
+            
+        }
+}
